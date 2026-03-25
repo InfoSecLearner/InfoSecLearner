@@ -14,7 +14,7 @@ I'm learning cybersecurity and building hands-on projects to strengthen my skill
 - Static analysis tools  
 - Application security fundamentals  
 
-Thanks for checking out my work — I’m actively learning and adding new projects as I grow.
+Thanks for checking out my work! I’m actively learning and adding new projects as I grow.
 
 <!--
 **InfoSecLearner/InfoSecLearner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
