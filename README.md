@@ -3,7 +3,7 @@
 I'm learning cybersecurity and building hands-on projects to strengthen my skills in secure coding, threat modeling, and application security. My focus is on understanding how vulnerabilities occur and how to prevent them through secure design and development practices.
 
 ### 🔐 Security Projects
-- **Secure Login App** - Java console login app with safe input and error handling
+- **Secure Login App** - Java console login app with input validation and error handling
 - **SpotBugs SAST Scan** – Static analysis of a Java application with identified findings and applied fixes  
 - **Login System Threat Model** – STRIDE-based threat model with full documentation  
 - More projects coming as I continue learning and building
