@@ -3,19 +3,18 @@
 I'm learning cybersecurity and building hands-on projects to strengthen my skills in secure coding, threat modeling, and application security. My focus is on understanding how vulnerabilities occur and how to prevent them through secure design and development practices.
 
 ### 🔐 Security Projects
-- **Secure Login App** - A Java console app showcasing secure input handling and safe authentication logic.
+- **Secure Login App** - Java console login app with safe input and error handling
 - **SpotBugs SAST Scan** – Static analysis of a Java application with identified findings and applied fixes  
 - **Login System Threat Model** – STRIDE-based threat model with full documentation  
 - More projects coming as I continue learning and building
 
 ### 🧠 What I'm Learning
-- Secure coding principles  
-- Threat modeling (STRIDE, DFDs, asset identification)  
+- Secure coding fundamentals  
+- Threat modeling (STRIDE, DFDs, assets)  
 - Static analysis tools  
 - Application security fundamentals  
 
-### 📫 Connect
-Feel free to explore my repositories — I'm actively adding new work as I grow my skills.
+Thanks for checking out my work — I’m actively learning and adding new projects as I grow.
 
 <!--
 **InfoSecLearner/InfoSecLearner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
